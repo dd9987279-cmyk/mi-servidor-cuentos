@@ -1,0 +1,13 @@
+{
+  "name": "backend-app-cuentos",
+  "version": "1.0.0",
+  "description": "API para DreamCraft",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "express": "^4.18.2"
+  }
+}
